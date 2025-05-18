@@ -26,7 +26,7 @@ A TypeScript-based project for parsing log files, processing data, and exporting
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/file-parser.git
+   git clone https://github.com/Pravin-N/data-parser.git
    cd file-parser
    ```
 2. Install dependencies:
